@@ -42,7 +42,7 @@ The script will:
 
 ## Credit
 
-This program utilizes the Rocksmith Custom DLC Collection hosted on the Internet Archive by Deus Deceptor. You can visit their profile [here](https://archive.org/details/@deusdeceptor).
+This program utilises the Rocksmith Custom DLC Collection hosted on the Internet Archive by Deus Deceptor. You can visit their profile [here](https://archive.org/details/@deusdeceptor).
 
 ## License
 
